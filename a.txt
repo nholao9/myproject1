@@ -1,3 +1,7 @@
 Content A.
 
+<<<<<<< HEAD
 Modified by master.
+=======
+Modified by beta.
+>>>>>>> beta
